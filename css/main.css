@@ -1,0 +1,34 @@
+/* universal */
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+/* center homepage content */
+#container-homepage {
+    padding: 15px;
+    max-width: 1000px;
+    margin: auto;
+    text-align: center;
+}
+
+#top-3-container {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+#top-3-list {
+    padding: 0;
+    list-style: none;
+}
+
+#img-container {
+    margin: auto;
+    display: block;
+}
+
+/* resize and center all images */
+img {
+    max-width: 80%;
+    display: block;
+    margin: auto;
+}
