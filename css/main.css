@@ -24,6 +24,7 @@ body {
 #img-container {
     margin: auto;
     display: block;
+    text-align: center;
 }
 
 /* resize and center all images */
@@ -31,4 +32,18 @@ img {
     max-width: 80%;
     display: block;
     margin: auto;
+}
+
+#recipe-container {
+    padding: 15px;
+    max-width: 1000px;
+    margin: auto;
+}
+
+#recipe-credits {
+    float: right;
+}
+
+#recipe-name {
+    text-align: center;
 }
